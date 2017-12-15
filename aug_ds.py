@@ -39,6 +39,10 @@ def printWorld(world_map):
     print("X")
 
 
+"""
+Plots a world heightmap.
+@arg world_map: 2d array, heightmap.
+"""
 def plotWorld3D(world_map):
     from mpl_toolkits.mplot3d import Axes3D
     import matplotlib.pyplot as plt
