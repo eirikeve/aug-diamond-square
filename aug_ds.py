@@ -241,4 +241,3 @@ def exampleCall():
 
     plotWorld3D(m)
 
-exampleCall()
